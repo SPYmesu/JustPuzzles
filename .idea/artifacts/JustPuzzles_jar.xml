@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JustPuzzles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JustPuzzles_jar</output-path>
+    <root id="archive" name="JustPuzzles.jar">
+      <element id="module-output" name="JustPuzzles" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/jetbrains/annotations/23.1.0/annotations-23.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

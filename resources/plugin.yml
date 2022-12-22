@@ -1,0 +1,8 @@
+name: JustPuzzles
+version: 3.0
+api-version: 1.13
+main: su.spyme.justpuzzles.Main
+depend: [Vault]
+commands:
+  ask:
+    description: Resend current puzzle
